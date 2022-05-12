@@ -4,7 +4,7 @@ The purpose of this document is to explain the architecture of the iOS App.
 
 VIPER Architecture is followed for the sample app development.
 
-![image](https://user-images.githubusercontent.com/104490038/168090078-c8eab50b-6d50-4e7e-9e41-859529986ce9.png)
+![airQualityViper (1)](https://user-images.githubusercontent.com/104490038/168091173-a87f75f7-1654-4bac-9289-c9740441369d.jpg)
 
 App has two screens 
 
